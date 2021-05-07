@@ -1,8 +1,11 @@
-### Hello there, welcome to my Git profile 👋
+# Hi, I'm Dung
+
+### Welcome to my Git profile 👋
 
 - 👋 Hi, I’m Dung
 - 👀 I’m interested in new technology, music and books
-- 🌱 I’m stydying at Posts and Telecommunications Institute of Technology
+- 🔭 I’m currently stydying IT at Posts and Telecommunications Institute of Technology
+- 🌱 I'm currently learning C++, HTML, CSS, JS and Python
 - 📫 How to reach me [Facebook](https://www.facebook.com/totien.dung.31)
 
 <!---
